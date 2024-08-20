@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "310791667606",
+    "project_id": "mancoverhole",
+    "storage_bucket": "mancoverhole.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310791667606:android:a5770eb132ce7bc633a7b7",
+        "android_client_info": {
+          "package_name": "com.example.manholecoveriot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHp48k2IkBqgcnfZsZa_nut7Y95f73bK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
